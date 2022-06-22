@@ -5,7 +5,7 @@
     <classes>
       <class name="com.cg.PdfClass">
         <methods>
-          <include name="ReadFile"/>
+          <include name="ThroughUrl"/>
         </methods>
       </class> <!-- com.cg.PdfClass -->
     </classes>
